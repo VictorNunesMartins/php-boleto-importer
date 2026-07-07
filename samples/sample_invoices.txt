@@ -1,0 +1,23 @@
+B0001001JOHN DOE                          MAPLE STREET 100                                        DOWNTOWN                           A010010
+1502202600000000000000012026000196000202000000609042024A24R4078863  m3    1/2''  
+CWATER TARIFF                                                00000008450
+CWATER RESOURCE FEE                                          00000000202
+N JOHN DOE                          SEM OCORRENCIA                N00000000000005011001@A            JOHN DOE                          0000000102012026SANTA RITA          SP12345000                              03399.04302 29400.000336 35238.101014 5 13580000008652                    11122233344
+B0001002JANE SMITH                        OAK AVENUE 240                                          DOWNTOWN                           A010020
+1502202600000000000000012026000538000558000002009042024A23R1877723  m3    1/2''  
+CWATER TARIFF                                                00000006428
+CSEWAGE TARIFF                                               00000005428
+CLATE FEE REVERSAL (ESTORNO)                                 -00000001000
+N JANE SMITH                        SEM OCORRENCIA                N00000000000005011002@A            JANE SMITH                        0000000102012026SANTA RITA          SP12345000                              03399.04302 29400.000336 35238.101014 5 13580000010856                    22233344455
+B0001003ACME CONDOMINIUM ASSOC            PRINCESS AVENUE 400                                     LAKESIDE                           B010023
+1502202600000000000000012026000074000096000002209042024A24BR04860  m3    1/2''  
+CWATER TARIFF                                                00000015263
+CSEWAGE TARIFF                                               00000015263
+CWATER RESOURCE FEE                                          00000000202
+N ACME CONDOMINIUM ASSOC            SEM OCORRENCIA                N00000000000003011003@A            ACME CONDOMINIUM ASSOC            0000000102012026SANTA RITA          SP12345100                              03399.04302 29400.000336 35238.101014 5 13580000030728                    00000000000100
+B0001004MARIA GARCIA                      REGENT ROAD 185                                         LAKESIDE                           D010074
+1002202600000000000000012026001500001523000002309042024A25BR00510  m3    1/2''  
+CWATER TARIFF                                                00000004161
+CWATER RESOURCE FEE                                          00000000202
+CINTERNAL LEAK CREDIT                                        -00000002000
+N MARIA GARCIA                      SEM OCORRENCIA                N00000000000003011004@A            MARIA GARCIA                      0000000102012026SANTA RITA          SP12345200                              03399.04302 29400.000336 35238.101014 5 13580000002363                    33344455566

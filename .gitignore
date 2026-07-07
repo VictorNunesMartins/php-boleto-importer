@@ -1,0 +1,19 @@
+# Environment / secrets
+config/.env
+config/env
+*.env
+!config/.env.example
+
+# Logs
+*.log
+error_log
+
+# Generated / temp artifacts
+*.pdf
+*.zip
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

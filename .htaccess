@@ -1,0 +1,5 @@
+# Deny access to environment files and VCS metadata
+<FilesMatch "(^\.env|\.env\.example$)">
+    Require all denied
+</FilesMatch>
+RedirectMatch 404 /\.git
